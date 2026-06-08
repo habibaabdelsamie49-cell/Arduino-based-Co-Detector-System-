@@ -18,7 +18,7 @@ Working on this project helped me understand how embedded systems and sensors in
 ## Simulation
 
 <p align="center">
-  <img src="img1.png" width="45%" height="250" />
+  <img src="Simulation_Video.mp4" width="45%" height="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="img2.png" width="45%" height="250" />
+  <img src="Circuit _Simulation .jpg"width="45%" height="250" />
 </p>
