@@ -16,9 +16,4 @@ This project focuses on designing a Carbon Monoxide (CO) detection system using 
 Working on this project helped me understand how embedded systems and sensors interact with real-world environments. I gained experience in reading sensor data, working with Arduino programming, and designing safety-based alert systems.
 
 ## Simulation
-
-<p align="center">
-  <img src="Simulation_Video.mp4" width="45%" height="250" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Circuit _Simulation .jpg"width="45%" height="250" />
-</p>
+![Simulation](Circuit_Simulation.jpg)
