@@ -1,2 +1,24 @@
-# Arduino-based-Co-Detector-System-
-An Arduino-based  (CO) detection and safety control system that monitors gas levels in real time using a sensor. When unsafe levels are detected, the system automatically activates a fan and shuts down a heater to prevent hazards and ensure environmental safety. 
+# CO Detector System
+
+## Overview
+This project focuses on designing a Carbon Monoxide (CO) detection system using Arduino and gas sensors. The system detects dangerous CO gas levels and triggers alerts to ensure safety in enclosed environments.
+
+## Components 
+- Arduino
+- Sensors (CO Gas Sensor)
+- LCD
+- electrical Fan
+- Electrical Motor(represents Heater)
+- npn transistor
+- I also use (Proteus program) to simulate the circuit behavior 
+
+## What I Learned
+Working on this project helped me understand how embedded systems and sensors interact with real-world environments. I gained experience in reading sensor data, working with Arduino programming, and designing safety-based alert systems.
+
+## Simulation
+
+<p align="center">
+  <img src="img1.png" width="45%" height="250" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="img2.png" width="45%" height="250" />
+</p>
